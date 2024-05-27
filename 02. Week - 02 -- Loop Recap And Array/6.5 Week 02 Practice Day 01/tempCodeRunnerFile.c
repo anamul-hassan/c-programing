@@ -1,0 +1,4 @@
+ count++;
+            bodies--;
+            eyes--;
+            mouths--;
